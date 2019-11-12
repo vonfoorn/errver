@@ -1,0 +1,15 @@
+{
+  "name": "errorserver",
+  "version": "1.0.0",
+  "description": "Serve descriptive pages for http status codes while maintaining the code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hendrik.lorenz@vonfoorn.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-status-codes": "^1.4.0"
+  }
+}
